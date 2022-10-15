@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Onur Çöpoğlu</h1>
-<h3 align="center">Junior full stack developer...</h3>
+<h3 align="center">Jr. Full Stack Developer, Computer Programming (Associate Degree), Tekirdağ Namık Kemal Üniversitesi</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
