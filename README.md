@@ -54,8 +54,3 @@
   <img src="https://profile-counter.glitch.me/onurcpgl/count.svg?"  />
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/onurcpgl/onurcpgl/output/snake.svg" alt="Snake animation" />
-<a href='https://svgshare.com/s/vDt' ><img src='https://svgshare.com/i/vDt.svg' title='' /></a>
-###
