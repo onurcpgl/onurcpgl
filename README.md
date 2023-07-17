@@ -39,11 +39,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40" alt="laravel logo"  />
 </div>
 
-###
-
-<h3 align="center">🔥   My Stats :</h3>
-
-###
 
 
 
